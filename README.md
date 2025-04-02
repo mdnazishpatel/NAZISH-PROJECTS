@@ -82,7 +82,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 📩 Contact
 **Md Nazish Patel**  
-✉️ Email: [your-email@example.com](patelnazish7@gmail.com)  
+✉️ Email: (patelnazish7@gmail.com)  
 🔗 GitHub: [@mdnazishpatel](https://github.com/mdnazishpatel)  
 🔗 LinkedIn: [Nazish Patel](https://www.linkedin.com/in/nazish-patel-8a71272a0/)  
 
